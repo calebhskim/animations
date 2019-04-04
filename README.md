@@ -1,2 +1,1 @@
-# animations
-SVGs in action
+# SVG Animations
