@@ -10,6 +10,8 @@ body {
   padding: 0;
   font-family: sans-serif;
   min-height: 100vh;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 
 h3 {
@@ -23,6 +25,8 @@ h3 {
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
 
 .digital-marketing {
@@ -40,4 +44,6 @@ h3 {
   justify-content: center;
   align-items: center;
   margin: 100px;
+  overflow-y: scroll; /* has to be scroll, not auto */
+  -webkit-overflow-scrolling: touch;
 }
