@@ -2,6 +2,7 @@
   "name": "animations",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://calebhskim.github.io/animations",
   "dependencies": {
     "animejs": "^2.2.0",
     "gh-pages": "^2.0.1",
